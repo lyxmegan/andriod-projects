@@ -1,0 +1,9 @@
+Name:   Yaxu Li
+EID:    yl35946
+Email:  lyxmegan112@utexas.edu
+Time:   4 hours
+Collaborators: none
+Comments:
+Video demo: See edX
+Explain: primary key ( id, category name)” means in the categories table, primary key contains _id and categry_name,
+because _id is foreign key, it reference the _id in the businesses table. 
